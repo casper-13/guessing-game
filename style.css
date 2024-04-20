@@ -145,6 +145,7 @@ body {
     animation: float 3s infinite alternate, fadeIn 1s forwards;
 }
 
+
 /* Animations */
 @keyframes fadeIn {
     from {
